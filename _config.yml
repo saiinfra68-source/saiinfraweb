@@ -1,0 +1,5 @@
+# GitHub Pages site settings
+title: SAI Infra Web
+description: Official site for SAI Infra
+
+theme: jekyll-theme-cayman
